@@ -18,7 +18,7 @@ Podes removê-los se não quiseres esse aspeto ou se preferires menos pedidos ex
   <img src="https://img.shields.io/static/v1?message=Twitter&amp;logo=twitter&amp;label=&amp;color=1DA1F2&amp;logoColor=white&amp;labelColor=&amp;style=for-the-badge" height="25" alt="Exemplo de badge Twitter" />
 </div>
 
-<p align="center"><em>Badges de exemplo: remove os serviços que não usas. Não são ligações para perfis pessoais.</em></p>
+
 
 <h1 align="center">Olá, sou o Bernardo 👋</h1>
 
